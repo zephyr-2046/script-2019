@@ -98,3 +98,4 @@ def util_group_nonzero_number( input_data, zero_threshold, two_parts_threshold )
 
     return connected_group_queue
 
+print( util_group_nonzero_number(input, 2, 4) )
